@@ -1,6 +1,6 @@
 ### Yanglet
 
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanglet&show_icons=true&theme={radical})](https://github.com/yanglet/github-readme-stats)
