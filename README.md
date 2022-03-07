@@ -1,7 +1,10 @@
 ### Yanglet
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=plastic&logo=Java&logoColor=white"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanglet&show_icons=true&theme={radical})](https://github.com/yanglet/github-readme-stats)
 
