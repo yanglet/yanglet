@@ -5,7 +5,7 @@
 
 <a href="https://yanglet.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-My Blog-d14836?style=flat&logo=Github&link=https://yanglet.tistory.com/"
+        src="http://img.shields.io/badge/-My Tech Blog-d14836?style=flat&logo=Github&link=https://yanglet.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
