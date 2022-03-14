@@ -11,6 +11,7 @@
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Data JPA-83B81A?style=flat&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/QueryDSL-7E4DD2?style=flat&logo=a&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Java&logoColor=white"/></a>
 
