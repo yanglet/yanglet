@@ -14,9 +14,10 @@
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Data JPA-83B81A?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/QueryDSL-7E4DD2?style=for-the-badge&logo=a&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <br />
 
 <div><h1>경험했어요</h1></div>
