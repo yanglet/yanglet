@@ -1,5 +1,5 @@
 
-<div><h1>기술 블로그</h1></div>
+<!-- <div><h1>기술 블로그</h1></div>
 
 <a href="https://yanglet.tistory.com/">
     <img 
