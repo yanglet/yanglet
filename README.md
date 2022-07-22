@@ -1,5 +1,5 @@
 
-<!-- <div><h1>기술 블로그</h1></div>
+<div><h1>기술 블로그</h1></div>
 
 <a href="https://yanglet.tistory.com/">
     <img 
@@ -38,4 +38,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
