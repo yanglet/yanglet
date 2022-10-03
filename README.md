@@ -1,5 +1,5 @@
 
-<div><h1>기술 블로그</h1></div>
+<!-- <div><h1>기술 블로그</h1></div>
 
 <a href="https://yanglet.tistory.com/">
     <img 
@@ -16,7 +16,7 @@
 <div><h1>경험했어요</h1></div>
 
 <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/></a> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/></a> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/></a>
-<br /><br />
+<br /><br /> -->
 
 <div><h1>GitHub Stats</h1></div>
 <br />
