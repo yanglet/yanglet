@@ -23,6 +23,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanglet&show_icons=true&theme=graywhite)](https://github.com/yanglet/github-readme-stats)
 
+[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yanglet&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=didcnddnr)](https://solved.ac/didcnddnr) -->
 
 <!--
